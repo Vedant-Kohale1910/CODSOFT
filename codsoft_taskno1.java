@@ -2,7 +2,7 @@ package com.java;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Numgame{
+public class codsoft_taskno1{
     public static int random(){
         Random rand = new Random();
         int num = rand.nextInt(30);
