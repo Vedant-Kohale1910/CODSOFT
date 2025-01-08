@@ -1,7 +1,8 @@
 package com.java;
 import java.util.Scanner;
+//this is added now
 
-public class StudentGradeCal{
+public class codsoft_taskno2{
     public static float percent(float total){
         return (total/500) * 100;
     }
